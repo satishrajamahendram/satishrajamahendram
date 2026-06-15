@@ -1,5 +1,5 @@
 👋 Hi, I'm Satish
-
+ 
 🎓 Computer Science Student | Java Developer | Web Enthusiast
 
 I am passionate about software development, problem-solving, and learning new technologies. I enjoy building projects using Java, C, Python, HTML, CSS, and JavaScript. My interests include Object-Oriented Programming, Data Structures, Web Development, and Machine Learning.
