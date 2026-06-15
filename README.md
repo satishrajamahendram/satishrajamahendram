@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Satish
 
-<!--
-**satishrajamahendram/satishrajamahendram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | Java Developer | Web Enthusiast
 
-Here are some ideas to get you started:
+I am passionate about software development, problem-solving, and learning new technologies. I enjoy building projects using Java, C, Python, HTML, CSS, and JavaScript. My interests include Object-Oriented Programming, Data Structures, Web Development, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technical Skills
+Programming Languages: Java, C, Python
+Web Technologies: HTML, CSS, JavaScript
+Database: MySQL
+Tools: Git, GitHub, VS Code, Eclipse
+Concepts: OOP, Data Structures, Algorithms
+🚀 Projects
+ATM Machine Management System (Java)
+Fake News Detection Using NLP
+Student Management System
+Library Management System
+🌱 Currently Learning
+Advanced Java
+Spring Boot
+Full Stack Development
+Machine Learning
+📫 Connect With Me
+GitHub: Your GitHub Profile Link
+LinkedIn: Your LinkedIn Profile Link
+Email: Your Email Address
